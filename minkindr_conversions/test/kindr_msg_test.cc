@@ -5,7 +5,7 @@
 #include <kindr/minimal/quat-transformation.h>
 #include <kindr/minimal/transform-2d.h>
 
-#include "minkindr_conversions/kindr_msg.h"
+#include "minkindr_conversionsx/kindr_msg.h"
 #include "testing_predicates.h"
 
 namespace tf {

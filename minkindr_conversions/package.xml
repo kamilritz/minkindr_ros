@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>minkindr_conversions</name>
+  <name>minkindr_conversionsx</name>
   <version>0.0.0</version>
   <description>Conversions between minkindr and ROS messages and TF.</description>
   <maintainer email="helenoleynikova@gmail.com">Helen Oleynikova</maintainer>
